@@ -11,6 +11,7 @@ password='Password'
 server = 'outlook.office365.com'
 
 # IMAP server for gmail/googlemail
+# For connecting to gmail, you need to allow less secure apps or it wont work
 # server = 'imap.gmail.com'
 
 # create an IMAP4 class with SSL
